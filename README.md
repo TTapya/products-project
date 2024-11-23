@@ -12,5 +12,3 @@ This is a **MERN stack** project for managing products. It allows users to **add
 - **Add Products**: Users can add new products with details like title, description, category, price, discount percentage, and thumbnail.
 - **Edit Products**: Existing products can be updated through an intuitive UI.
 - **Delete Products**: Products can be deleted from the database.
-
----

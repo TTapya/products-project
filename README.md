@@ -7,8 +7,6 @@ This is a **MERN stack** project for managing products. It allows users to **add
 - **React.js**: Frontend framework for user interface.
 - **Node.js**: Runtime for the backend server.
 
----
-
 ## Features
 
 - **Add Products**: Users can add new products with details like title, description, category, price, discount percentage, and thumbnail.
